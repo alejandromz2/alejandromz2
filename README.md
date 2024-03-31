@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **alejandrozevallos.218@gmail.com**
 
-- Education **Bsc. Mechatronic | Universidad de Ingeniería y Tecnología (December 2023)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
