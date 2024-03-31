@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alejandrozevallos.218@gmail.com**
 
--  You can check my portfolio here: **https://alejandromz2.github.io/**
+-  Y📄 Know about my experiences: **https://alejandromz2.github.io/**
 
 
 <h3 align="left">Connect with me:</h3>
