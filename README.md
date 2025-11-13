@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **alejandrozevallos.218@gmail.com**
 
-- 📄 Know about my experiences: **https://alejandromz2.github.io/**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
