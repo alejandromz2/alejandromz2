@@ -1,13 +1,14 @@
-### Hi there 👋 I'm Birunthaban Sarventhiran,
+### Hi there 👋 I'm Alejandro Muñoz,
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+I'm a Mechatronics Engineering graduate from the University of Engineering and Technology (UTEC), and I work as a Machine Learning Engineer at Interseguros.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+* 🎯 **Areas of interest:**
+
+  * Mobile Application Development
+  * Web Application Development
+* 💡 I'm interested in all things data: **Cloud, Machine Learning, and Data Science**
+* 💬 Talk to me about engineering, science, or anything you’re curious about.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
