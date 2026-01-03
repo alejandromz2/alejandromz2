@@ -80,27 +80,3 @@ I'm a Mechatronics Engineering graduate from the University of Engineering and T
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </span>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=alejandromz2&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-       alt="GitHub stats" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromz2&layout=compact&langs_count=8&cache_seconds=1800"
-       alt="Top languages" />
-</p>
-
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=alejandromz2" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alejandromz2&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandromz2" />
-</p>
-
