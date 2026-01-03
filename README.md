@@ -4,8 +4,8 @@ I'm a Mechatronics Engineering graduate from the University of Engineering and T
 
 * 🎯 **Areas of interest:**
 
-  * Mobile Application Development
-  * Web Application Development
+  * Machine Learning Engineer Application Development
+  * Agentic Software Engineer Development
 * 💡 I'm interested in all things data: **Cloud, Machine Learning, and Data Science**
 * 💬 Talk to me about engineering, science, or anything you’re curious about.
 
