@@ -92,10 +92,10 @@ I'm a Mechatronics Engineering graduate from the University of Engineering and T
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alejandromz2&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandromz2" />
 </p>
 
